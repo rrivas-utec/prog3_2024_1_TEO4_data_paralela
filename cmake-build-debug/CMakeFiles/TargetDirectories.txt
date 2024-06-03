@@ -1,0 +1,3 @@
+C:/Users/rrivas/CLionProjects/prog3_2024_1_TEO4_data_paralela/cmake-build-debug/CMakeFiles/prog3_2024_1_TEO4_data_paralela.dir
+C:/Users/rrivas/CLionProjects/prog3_2024_1_TEO4_data_paralela/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rrivas/CLionProjects/prog3_2024_1_TEO4_data_paralela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
